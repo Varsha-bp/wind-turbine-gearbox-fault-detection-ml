@@ -36,5 +36,3 @@ Achieved accurate classification of gearbox faults using vibration signal featur
 - Real-time fault detection
 - IoT-based sensor integration
 
-## 👩‍💻 Author
-Your Name
