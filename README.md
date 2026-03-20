@@ -1,4 +1,4 @@
-# WindGuard AI — Flask Production Dashboard
+# WindGuard AI 
 
 Real-time wind turbine gearbox fault detection system with WebSocket streaming.
 
